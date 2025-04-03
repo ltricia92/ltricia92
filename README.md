@@ -1,7 +1,23 @@
-- 👋 Hi, I’m @ltricia92
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ...CS50
-- 💞️ I’m looking to collaborate on ...anything
+-<!DOCTYPE html>
+<html>
+  <HEAD>
+  <title>Pink Letters</title>
+  <style>
+    body {background-color: black;
+          color: pink;
+          font-size: 4em;
+          text-align: center;
+          margin-top: 30%;
+          font-family: arial, sans-serif;
+          }
+  </style>
+  </HEAD>
+  <BODY>-  👋 Hi, I’m Tricia Lynn
+- I love to code, fix software and play in the field of ethical hacking
+- I have been in tech a few years </BODY>
+</html>
+
+-
 
 
 <!---
